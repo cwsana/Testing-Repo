@@ -2,4 +2,4 @@
 
 This is a local security test.
 
-<img src=x onerror=alert(document.domain)>
+<img src=x onerror=alert("jai babu")>
